@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "793338792365",
+    "firebase_url": "https://task-management-155db-default-rtdb.firebaseio.com",
+    "project_id": "task-management-155db",
+    "storage_bucket": "task-management-155db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793338792365:android:af1fba245b9ef9f6a5f924",
+        "android_client_info": {
+          "package_name": "com.task.task_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793338792365-l2580mld71lo7e0jthmqrdma6j3ht00g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.task.task_management",
+            "certificate_hash": "54b3d4e8f2de00629ff33b99e860fa2a2591b558"
+          }
+        },
+        {
+          "client_id": "793338792365-762421pn42rshj5df6tsuokffplpjbfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Mt9_qI4IORqNJ3EKlG0HU2er8YLimyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793338792365-762421pn42rshj5df6tsuokffplpjbfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
